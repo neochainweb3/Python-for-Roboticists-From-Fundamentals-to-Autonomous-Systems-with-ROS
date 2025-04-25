@@ -1,0 +1,3 @@
+# Chapter 8 - Serial communication Python side
+import serial
+# code to read/write to Arduino...
